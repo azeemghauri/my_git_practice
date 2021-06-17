@@ -2,8 +2,6 @@ this is git
 this is git1
 
 
-
-
-
-
 My name is azeem
+
+this is git
